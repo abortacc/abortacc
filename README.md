@@ -17,3 +17,6 @@
 
 
 ## Follow Me
+[![YouTube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@abortacc)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/janolivee)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=)](https://vk.com/wmv01)

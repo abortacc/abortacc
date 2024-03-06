@@ -1,4 +1,4 @@
-![Header](https://github.com/abortacc/abortacc/blob/main/assets/header.png)](https://vk.com/wmv01)
+[![Header](https://github.com/abortacc/abortacc/blob/main/assets/header.png)](https://vk.com/wmv01)
 
 About me
 

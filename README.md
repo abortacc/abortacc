@@ -16,7 +16,7 @@
 [![codewars](https://www.codewars.com/users/abortacc/badges/large)](https://www.codewars.com/users/abortacc)
 
 ## LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user0955PU&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user0955PU&theme=dark)](https://leetcode.com/user0955PU/)
 
 ## Follow Me
 [![YouTube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@abortacc)

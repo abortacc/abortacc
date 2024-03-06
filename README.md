@@ -20,3 +20,10 @@
 [![YouTube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@abortacc)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/janolivee)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=)](https://vk.com/wmv01)
+
+## Codewars
+[![codewars](https://www.codewars.com/users/abortacc/badges/large)](https://www.codewars.com/users/abortacc)
+
+## LeetCode
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user0955PU&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+

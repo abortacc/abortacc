@@ -11,6 +11,8 @@
 ![Docker](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker&logoColor=)
 ![SQLite3](https://img.shields.io/badge/-SQLITE3-090909?style=for-the-badge&logo=sqlite&logoColor=fff)
 ![Postgresql](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobe%20photoshop&logoColor=)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=)
 
 
 

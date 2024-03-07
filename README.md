@@ -15,8 +15,9 @@
 ## Codewars
 [![codewars](https://www.codewars.com/users/abortacc/badges/large)](https://www.codewars.com/users/abortacc)
 
-## LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user0955PU&theme=dark)](https://leetcode.com/user0955PU/)
+## Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=abortacc&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## Follow Me
 [![YouTube](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@abortacc)

@@ -1,6 +1,6 @@
 [![Header](https://github.com/abortacc/abortacc/blob/main/assets/header.png)](https://vk.com/wmv01)
 
-## I'm Artem, a budding Python programmer 🐍💻 
+## Python Programmer 🐍💻 
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/-PYTHON-090909?style=for-the-badge&logo=python&logoColor=fff)
